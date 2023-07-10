@@ -18,8 +18,5 @@
     "fs": "^0.0.1-security",
     "mysql": "^2.18.1",
     "nodemon": "^2.0.22"
-  },
-  "engines": {
-    "node": "18.16.0"
   }
 }
